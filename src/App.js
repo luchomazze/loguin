@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <Row className="landing">
+        
         <Col> <Leftside className=""/></Col>
         <Col> <Rigthside className=""/></Col>
 
